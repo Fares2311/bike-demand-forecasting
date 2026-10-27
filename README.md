@@ -1,6 +1,6 @@
 # Bike-Sharing Demand Forecasting
 
-[![CI](https://github.com/Fares2311/bike-demand-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/Fares2311/bike-demand-forecasting/actions/workflows/ci.yml)
+[![CI](https://github.com/fareszid/bike-demand-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/fareszid/bike-demand-forecasting/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
@@ -134,7 +134,7 @@ events) and a way for planners to override forecasts for known disruptions.
 ## Run it
 
 ```bash
-git clone https://github.com/Fares2311/bike-demand-forecasting.git
+git clone https://github.com/fareszid/bike-demand-forecasting.git
 cd bike-demand-forecasting
 python -m venv .venv && source .venv/bin/activate
 make install                                # pip install -e ".[dev]"
